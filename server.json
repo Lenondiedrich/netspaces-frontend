@@ -1,0 +1,62 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "thumbnail": "https://i.insider.com/5d039f606fc9201fdf1a53b7?width=700",
+      "name": "Rua dos Andradas 1234, sala 1624",
+      "area": "Residencial. 45m².",
+      "totalValue": 250000,
+      "rentValue": 1021,
+      "returnValue": "0,69% a.m",
+      "neighbourhood": "Petrópolis",
+      "location": "Porto Alegre, RS "
+    },
+    {
+      "id": 2,
+      "thumbnail": "https://i.insider.com/5d039f606fc9201fdf1a53b7?width=700",
+      "name": "Rua dos Andradas 12123",
+      "area": "Residencial. 45m².",
+      "totalValue": 250000,
+      "rentValue": 1021,
+      "returnValue": "0,69% a.m",
+      "neighbourhood": "Petrópolis",
+      "location": "Porto Alegre, RS "
+    },
+    {
+      "id": 3,
+      "thumbnail": "https://i.insider.com/5d039f606fc9201fdf1a53b7?width=700",
+      "name": "Rua asidh adhaushda 32165",
+      "area": "Residencial. 45m².",
+      "totalValue": 250000,
+      "rentValue": 1021,
+      "returnValue": "0,69% a.m",
+      "neighbourhood": "Petrópolis",
+      "location": "Porto Alegre, RS ",
+      "percentage": 20.009
+    },
+    {
+      "id": 4,
+      "thumbnail": "https://i.insider.com/5d039f606fc9201fdf1a53b7?width=700",
+      "name": "Rua Coronel Eurico de Souza Gomes Filho 295",
+      "area": "Residencial. 45m².",
+      "totalValue": 250000,
+      "rentValue": 1021,
+      "returnValue": "0,69% a.m",
+      "neighbourhood": "Petrópolis",
+      "location": "Porto Alegre, RS ",
+      "percentage": 23.62
+    },
+    {
+      "id": 5,
+      "thumbnail": "https://i.insider.com/5d039f606fc9201fdf1a53b7?width=700",
+      "name": "Av Nuta James 35",
+      "area": "Residencial. 45m².",
+      "totalValue": 250000,
+      "rentValue": 1021,
+      "returnValue": "0,69% a.m",
+      "neighbourhood": "Petrópolis",
+      "location": "Porto Alegre, RS ",
+      "percentage": 7
+    }
+  ]
+}
